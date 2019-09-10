@@ -1,0 +1,5 @@
+0 - https://in.udacity.com/course/intro-to-machine-learning--ud120/
+1 - https://in.udacity.com/course/machine-learning--ud262
+2 - https://in.udacity.com/course/machine-learning-unsupervised-learning--ud741
+3 - https://in.udacity.com/course/reinforcement-learning--ud600
+4 - https://in.udacity.com/course/deep-learning--ud730
